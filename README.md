@@ -1,7 +1,5 @@
 # Application Machine Learning - Régression & Classification
 
-Application Streamlit permettant d'effectuer des analyses de régression et de classification sur des données personnalisées.
-
 ## 🚀 Fonctionnalités
 
 - **📁 Téléchargement de données** : Importez vos propres fichiers CSV
@@ -69,3 +67,4 @@ streamlit run app.py
 - L'application gère automatiquement les variables catégorielles
 - Les modèles sont entraînés avec une répartition 80/20 (train/test)
 - La graine aléatoire est fixée pour la reproductibilité
+
